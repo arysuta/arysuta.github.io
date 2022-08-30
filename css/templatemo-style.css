@@ -396,7 +396,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #about .about-img {
-    background: url('../images/about_image2.jpg') no-repeat;
+    background: url('../images/about_image2.jpg');
 }
 
 #about .about-thumb,
@@ -453,7 +453,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #experience .experience-img {
-  background: url('../images/experience_image.jpg') no-repeat;
+  background: url('../images/experience_img.jpg');
 }
 
 
